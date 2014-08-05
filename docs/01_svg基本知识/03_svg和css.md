@@ -16,7 +16,7 @@ SVG规范将属性区分成properties和其他attributes，前者是可以用CSS
 
 	<rect x="10" height="180" y="10" width="180" style="stroke: black; fill: red;"/>
 	
-或者通过<style>设置一段样式段落。在html里这样的段落一般放在里，在svg则放在<defs>标签里。<defs>表示定义，这里可以定义一些不会在SVG图形中出现的元素，但是它们可以被其他元素使用。
+或者通过&lt;style&gt;设置一段样式段落。在html里这样的段落一般放在里，在svg则放在<defs>标签里。<defs>表示定义，这里可以定义一些不会在SVG图形中出现的元素，但是它们可以被其他元素使用。
 
 	<?xml version="1.0" standalone="no"?>
 	<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" version="1.1">
