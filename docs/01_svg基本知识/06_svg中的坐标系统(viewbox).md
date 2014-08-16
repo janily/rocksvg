@@ -64,7 +64,7 @@ SVG的视窗位置一般是由CSS指定，尺寸由SVG元素的属性width和hei
 
 参考文章：
 
-[http://jonibologna.com/svg-viewbox-and-viewport/](A Look At SVG viewBox and viewport)
+[A Look At SVG viewBox and viewport](http://jonibologna.com/svg-viewbox-and-viewport/)
 
 
 
