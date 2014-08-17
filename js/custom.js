@@ -19,4 +19,10 @@ $(function() {
 		if ($(window).width() >= 768)
 			$('#sub-nav-collapse').removeAttr('style');
 	});
+
+	//新窗口打开链接
+
+	$(document.links).filter(function() {
+	    return this.hostname != window.location.hostname;
+	}).attr('target', '_blank');
 });
