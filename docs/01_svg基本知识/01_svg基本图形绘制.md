@@ -57,7 +57,7 @@ points：一系列的用空格，逗号，换行符等分隔开的点。每个�
 
 <a class="jsbin-embed" href="http://jsbin.com/wiwesavo/1/embed?html,output">JS Bin</a><script src="http://static.jsbin.com/js/embed.js"></script>
 
-下面是path元素，我认为它是svg最牛逼，最强大的元素。有来它我们就可以制作出令css3望尘莫及的动画效果。所以这个要单独列出来讲讲。
+下面是path元素，我认为它是svg最牛逼，最强大的元素。有了它我们就可以制作出令css3望尘莫及的动画效果。所以这个要单独列出来讲讲。
 
 
 
